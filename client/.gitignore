@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+instance/
+spendsmart.db
+.pytest_cache/
