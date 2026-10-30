@@ -188,3 +188,17 @@ Potential future enhancements include:
 
 **Developed as a Full-Stack Capstone Project.**
 
+
+## Application Screenshots
+
+### Login Page
+![SpendSmart Login](screenshots/login.png)
+
+### Dashboard
+![SpendSmart Dashboard](screenshots/dashboard.png)
+
+### Expense Management
+![SpendSmart Expenses](screenshots/expenses.png)
+
+### Budget Management
+![SpendSmart Budgets](screenshots/budgets.png)
